@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphPlotter", "GraphPlotter.csproj", "{21D3A2CD-FA3E-41C5-BF16-2D1E39D0BAB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21D3A2CD-FA3E-41C5-BF16-2D1E39D0BAB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21D3A2CD-FA3E-41C5-BF16-2D1E39D0BAB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21D3A2CD-FA3E-41C5-BF16-2D1E39D0BAB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21D3A2CD-FA3E-41C5-BF16-2D1E39D0BAB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECCF1DAE-76E2-48F5-A366-43AA5076B467}
+	EndGlobalSection
+EndGlobal
